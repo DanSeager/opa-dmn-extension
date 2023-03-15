@@ -1,0 +1,4 @@
+.gradle
+.vscode
+build/classes/main/com/workato/onprem
+build/tmp
